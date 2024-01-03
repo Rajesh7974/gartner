@@ -175,10 +175,10 @@
     justify-content: center;
     flex-direction: column;
     padding-inline: 2%; 
-    row-gap: 20px;
+    row-gap: 10px;
 } 
 .box h1{
-    font-size:56px ;
+    font-size:53px ;
     color: rgb(0,40,86);
     width: 80%;
     font-weight: 700;
